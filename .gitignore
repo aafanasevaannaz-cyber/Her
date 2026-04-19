@@ -1,0 +1,13 @@
+node_modules
+.svelte-kit
+.vercel
+.vite
+build
+.DS_Store
+.env
+.env.*
+coverage
+*.log
+*.mov
+*.mp4
+*.wav
